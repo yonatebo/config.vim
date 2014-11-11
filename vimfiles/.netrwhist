@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/njbleaux/.marau'
+let g:netrw_dirhist_2='/Users/njbleaux/Projects/marau'
+let g:netrw_dirhist_3='/Users/njbleaux/Projects/codeyoke'
+let g:netrw_dirhist_4='/Users/njbleaux/Repos/marau'
+let g:netrw_dirhist_5='/Users/njbleaux/Repos/comp'
+let g:netrw_dirhist_6='/Users/njbleaux/ws_0/Repos'
